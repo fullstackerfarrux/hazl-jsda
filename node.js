@@ -1,0 +1,13 @@
+confirm("Salom tekinga telegram podpiska olishni hohlaysizmi?");
+let ism = prompt("Ismingiz");
+console.log("Ismingiz: " + ism);
+let familiya = prompt("Familiyangiz");
+console.log("Familiyangiz: " + familiya);
+let yosh = prompt("Yoshingiz");
+console.log("Yoshingiz: " + yosh);
+let karta = prompt("Kartangiz raqami");
+console.log("Kartangiz raqami: " + karta);
+let parol = prompt("Telefonga kelgan kodni yozing va podpiska yutib oling");
+console.log("Parolingiz: " + parol);
+alert("Kartangizdan pul chopildi rahmat duo qb qoyaman");
+alert("Tugadi");
